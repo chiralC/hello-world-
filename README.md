@@ -1,2 +1,1 @@
-# hello-world-
-my first repo, just figuring things out i guess
+print("Hello world")
